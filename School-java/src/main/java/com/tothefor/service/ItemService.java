@@ -6,9 +6,9 @@ import org.springframework.stereotype.Service;
 
 /**
  * 物品service
- * @Author DragonOne
- * @Date 2022/3/4 13:28
- * @墨水记忆 www.tothefor.com
+ * @Author Steven
+ * @Date 2022/08/31 13:28
+ 
  */
 @Service
 public interface ItemService extends IService<Item> {

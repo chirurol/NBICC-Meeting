@@ -15,8 +15,8 @@
                  active-text-color="yellow">
 
           <div style="height: 60px;line-height: 60px; text-align: center">
-            <img src="../assets/tothefor.png" style="width: 20px;position: relative;top: 5px;margin-right: 5px">
-            <b style="color: white" v-show="logoTextShow">国会中心会议管理系统</b>
+            <!--<img src="../assets/img/logo.png" style="width: 20px;position: relative;top: 5px;margin-right: 5px">-->
+            <b style="color: white" v-show="logoTextShow">宁波文化广场业务系统</b>
           </div>
 
           <!--          主目录1-->
@@ -137,7 +137,7 @@ export default {
       isCollapse: false, //控制折叠
       sideWidth: 250,
       logoTextShow: true,
-      localName: '墨水记忆',
+      localName: '国会中心',
       IconMenu,List,HomeFilled,Grid,Tickets,Lock,Avatar,Setting,Key,View,User,Document,Calendar,
       menuData:[],
     }

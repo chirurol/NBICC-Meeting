@@ -4,7 +4,7 @@ module.exports = {
         config
             .plugin('html')
             .tap(args => {
-                args[0].title= 'TeamC便捷管理系统'
+                args[0].title= '宁波文化广场业务系统'
                 return args
             })
     }

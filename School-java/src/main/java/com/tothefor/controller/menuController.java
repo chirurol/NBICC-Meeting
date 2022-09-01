@@ -35,9 +35,9 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
- * @Author DragonOne
- * @Date 2022/3/4 15:31
- * @墨水记忆 www.tothefor.com
+ * @Author Steven
+ * @Date 2022/08/31 15:31
+ 
  */
 
 @RestController
@@ -52,9 +52,9 @@ public class menuController {
 
 
     /**
-     * @Author DragonOne
-     * @Date 2022/3/6 17:01
-     * @墨水记忆 www.tothefor.com
+     * @Author Steven
+     * @Date 2022/09/01 17:01
+     
      * @方法 itemAll
      * @作用 查找所有物品信息接口
      * @参数说明
@@ -72,9 +72,9 @@ public class menuController {
     }
 
     /**
-     * @Author DragonOne
-     * @Date 2022/3/6 17:02
-     * @墨水记忆 www.tothefor.com
+     * @Author Steven
+     * @Date 2022/09/01 17:02
+     
      * @方法 itemSave
      * @作用 插入和修改接口
      * @参数说明
@@ -91,9 +91,9 @@ public class menuController {
     }
 
     /**
-     * @Author DragonOne
-     * @Date 2022/3/6 17:06
-     * @墨水记忆 www.tothefor.com
+     * @Author Steven
+     * @Date 2022/09/01 17:06
+     
      * @方法 itemDelete
      * @作用 根据id删除信息
      * @参数说明
@@ -109,9 +109,9 @@ public class menuController {
     }
 
     /**
-     * @Author DragonOne
-     * @Date 2022/3/6 17:11
-     * @墨水记忆 www.tothefor.com
+     * @Author Steven
+     * @Date 2022/09/01 17:11
+     
      * @方法 itemBatchDelete
      * @作用 批量删除
      * @参数说明

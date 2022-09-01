@@ -42,9 +42,9 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 /**
- * @Author DragonOne
- * @Date 2022/3/4 15:31
- * @墨水记忆 www.tothefor.com
+ * @Author Steven
+ * @Date 2022/08/31 15:31
+ 
  */
 
 @RestController
@@ -93,9 +93,9 @@ public class userController {
     }
 
     /**
-     * @Author DragonOne
+     * @Author Steven
      * @Date 2022/3/13
-     * @墨水记忆 www.tothefor.com
+     
      * @方法名称 updatePassword
      * @方法描述 个人修改密码
      * @参数说明
@@ -119,9 +119,9 @@ public class userController {
     }
 
     /**
-     * @Author DragonOne
+     * @Author Steven
      * @Date 2022/3/13
-     * @墨水记忆 www.tothefor.com
+     
      * @方法名称 getUserIdByToken
      * @方法描述 通过token获取用户id
      * @参数说明
@@ -135,9 +135,9 @@ public class userController {
     }
 
     /**
-     * @Author DragonOne
+     * @Author Steven
      * @Date 2022/3/13
-     * @墨水记忆 www.tothefor.com
+     
      * @方法名称 getT
      * @方法描述 获取请求用户的系统信息
      * @参数说明
@@ -211,9 +211,9 @@ public class userController {
 
 
     /**
-     * @Author DragonOne
+     * @Author Steven
      * @Date 2022/3/12 20:01
-     * @墨水记忆 www.tothefor.com
+     
      * @方法 itemAll
      * @作用 用户登录
      * @参数说明
@@ -245,9 +245,9 @@ public class userController {
 
 
     /**
-     * @Author DragonOne
-     * @Date 2022/3/6 17:01
-     * @墨水记忆 www.tothefor.com
+     * @Author Steven
+     * @Date 2022/09/01 17:01
+     
      * @方法 itemAll
      * @作用 查找所有物品信息接口
      * @参数说明
@@ -260,9 +260,9 @@ public class userController {
     }
 
     /**
-     * @Author DragonOne
-     * @Date 2022/3/6 17:02
-     * @墨水记忆 www.tothefor.com
+     * @Author Steven
+     * @Date 2022/09/01 17:02
+     
      * @方法 itemSave
      * @作用 插入和修改接口
      * @参数说明
@@ -279,9 +279,9 @@ public class userController {
     }
 
     /**
-     * @Author DragonOne
-     * @Date 2022/3/6 17:06
-     * @墨水记忆 www.tothefor.com
+     * @Author Steven
+     * @Date 2022/09/01 17:06
+     
      * @方法 itemDelete
      * @作用 根据id删除信息
      * @参数说明
@@ -297,9 +297,9 @@ public class userController {
     }
 
     /**
-     * @Author DragonOne
-     * @Date 2022/3/6 17:11
-     * @墨水记忆 www.tothefor.com
+     * @Author Steven
+     * @Date 2022/09/01 17:11
+     
      * @方法 itemBatchDelete
      * @作用 批量删除
      * @参数说明
@@ -316,9 +316,9 @@ public class userController {
     }
 
     /**
-     * @Author DragonOne
+     * @Author Steven
      * @Date 2022/3/7 12:37
-     * @墨水记忆 www.tothefor.com
+     
      * @方法 PageitemAll
      * @作用 物品的分页查询
      * @参数说明
@@ -356,9 +356,9 @@ public class userController {
     }
 
     /**
-     * @Author DragonOne
+     * @Author Steven
      * @Date 2022/3/9 17:13
-     * @墨水记忆 www.tothefor.com
+     
      * @方法 export
      * @作用 数据导出
      * @参数说明
@@ -399,9 +399,9 @@ public class userController {
     }
 
     /**
-     * @Author DragonOne
+     * @Author Steven
      * @Date 2022/3/9 17:13
-     * @墨水记忆 www.tothefor.com
+     
      * @方法 imp
      * @作用 数据导入
      * @参数说明
@@ -442,9 +442,9 @@ public class userController {
 
 
     /**
-     * @Author DragonOne
+     * @Author Steven
      * @Date 2022/3/10 10:30
-     * @墨水记忆 www.tothefor.com
+     
      * @方法 exportMB
      * @作用 导入数据模板
      * @参数说明

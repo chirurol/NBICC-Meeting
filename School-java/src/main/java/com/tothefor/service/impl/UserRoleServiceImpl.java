@@ -17,9 +17,9 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 /**
- * @Author DragonOne
+ * @Author Steven
  * @Date 2022/3/10 16:02
- * @墨水记忆 www.tothefor.com
+ 
  */
 @Service("UserRoleServiceImpl")
 public class UserRoleServiceImpl extends ServiceImpl<UserRoleMapper, UserRole> implements UserRoleService {

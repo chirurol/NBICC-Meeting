@@ -5,9 +5,9 @@ import org.springframework.util.DigestUtils;
 
 /**
  * MD5加密工具类
- * @Author DragonOne
- * @Date 2022/3/4 13:28
- * @墨水记忆 www.tothefor.com
+ * @Author Steven
+ * @Date 2022/08/31 13:28
+ 
  */
 
 

@@ -10,9 +10,9 @@ import java.util.*;
 
 /**
  * JWT工具类
- * @Author DragonOne
- * @Date 2022/3/4 13:28
- * @墨水记忆 www.tothefor.com
+ * @Author Steven
+ * @Date 2022/08/31 13:28
+ 
  */
 
 
@@ -56,9 +56,9 @@ public class JWTUtils {
     }
 
     /**
-     * @Author DragonOne
+     * @Author Steven
      * @Date 2022/3/7 11:16
-     * @墨水记忆 www.tothefor.com
+     
      * @属性 检验token合法性
      * @作用 80
      */
@@ -74,9 +74,9 @@ public class JWTUtils {
         }
     }
     /**
-     * @Author DragonOne
+     * @Author Steven
      * @Date 2022/3/13 12:16
-     * @墨水记忆 www.tothefor.com
+     
      * @属性 通过token获取用户名
      * @作用 80
      */
@@ -87,9 +87,9 @@ public class JWTUtils {
     }
 
     /**
-     * @Author DragonOne
+     * @Author Steven
      * @Date 2022/3/13 12:16
-     * @墨水记忆 www.tothefor.com
+     
      * @属性 通过token获取用户id
      * @作用 80
      */

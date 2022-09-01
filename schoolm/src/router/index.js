@@ -8,7 +8,7 @@ const routes = [
   },
   {
     path: '/',
-    name: '仪表盘',
+    name: '菜单栏',
     component: ()=>import('@/views/index'),
     redirect: '/home',
     children:[
@@ -21,27 +21,27 @@ const routes = [
   },
   {
     path: '/basic',
-    name: '物品管理',
+    name: '订单管理',
     component: ()=>import('@/views/index'),
     children:[
       {
         path: '/itemShow',
-        name: '物品列表',
+        name: '订单录入',
         component: ()=>import('@/views/basic/itemShow/index'),
       },
       {
         path: '/itemType',
-        name: '物品类型',
+        name: '订单查询',
         component: ()=>import('@/views/basic/itemType/index'),
       },
       {
         path: '/recordShow',
-        name: '借出管理',
+        name: '订单文档',
         component: ()=>import('@/views/basic/recordShow/index'),
       },
       {
         path: '/lookData',
-        name: '数据展示',
+        name: '订单审批流',
         component: ()=>import('@/views/basic/lookData/index'),
       }
     ],

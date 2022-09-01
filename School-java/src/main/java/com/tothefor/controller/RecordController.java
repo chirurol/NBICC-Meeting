@@ -37,9 +37,9 @@ import java.util.Map;
 
 /**
  * 物品controller
- * @Author DragonOne
- * @Date 2022/3/4 13:28
- * @墨水记忆 www.tothefor.com
+ * @Author Steven
+ * @Date 2022/08/31 13:28
+ 
  */
 
 @RestController
@@ -54,9 +54,9 @@ public class RecordController {
 
 
     /**
-     * @Author DragonOne
-     * @Date 2022/3/6 17:01
-     * @墨水记忆 www.tothefor.com
+     * @Author Steven
+     * @Date 2022/09/01 17:01
+     
      * @方法 itemAll
      * @作用 查找所有物品信息接口
      * @参数说明
@@ -69,9 +69,9 @@ public class RecordController {
     }
 
     /**
-     * @Author DragonOne
-     * @Date 2022/3/6 17:02
-     * @墨水记忆 www.tothefor.com
+     * @Author Steven
+     * @Date 2022/09/01 17:02
+     
      * @方法 itemSave
      * @作用 插入和修改接口
      * @参数说明
@@ -89,9 +89,9 @@ public class RecordController {
 
 
     /**
-     * @Author DragonOne
-     * @Date 2022/3/6 17:06
-     * @墨水记忆 www.tothefor.com
+     * @Author Steven
+     * @Date 2022/09/01 17:06
+     
      * @方法 itemDelete
      * @作用 根据id删除信息
      * @参数说明
@@ -107,9 +107,9 @@ public class RecordController {
     }
 
     /**
-     * @Author DragonOne
-     * @Date 2022/3/6 17:11
-     * @墨水记忆 www.tothefor.com
+     * @Author Steven
+     * @Date 2022/09/01 17:11
+     
      * @方法 itemBatchDelete
      * @作用 批量删除
      * @参数说明
@@ -127,9 +127,9 @@ public class RecordController {
 
 
     /**
-     * @Author DragonOne
+     * @Author Steven
      * @Date 2022/3/7 12:37
-     * @墨水记忆 www.tothefor.com
+     
      * @方法 PageitemAll
      * @作用 物品的分页查询
      * @参数说明
@@ -154,9 +154,9 @@ public class RecordController {
     }
 
     /**
-     * @Author DragonOne
+     * @Author Steven
      * @Date 2022/3/9 16:28
-     * @墨水记忆 www.tothefor.com
+     
      * @方法 itemShow
      * @作用 修改物品状态
      * @参数说明
@@ -173,9 +173,9 @@ public class RecordController {
 
 
     /**
-     * @Author DragonOne
+     * @Author Steven
      * @Date 2022/3/9 17:13
-     * @墨水记忆 www.tothefor.com
+     
      * @方法 export
      * @作用 数据导出
      * @参数说明
